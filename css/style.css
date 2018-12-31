@@ -2,3 +2,7 @@
   width: 65px;
   border-radius: 10px;
 }
+
+nav ul li {
+  width: 120px;
+}
