@@ -6,3 +6,13 @@
 nav ul li {
   width: 120px;
 }
+
+.carousel {
+  width: 440px;
+  height: 331px;
+  margin: 0 auto;
+}
+
+.carousel-image-size {
+  margin: 0 auto;
+}
