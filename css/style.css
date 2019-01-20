@@ -1,5 +1,5 @@
-body.hidden {
-  overflow: hidden;
+body {
+  border: 20px solid red;
 }
 
 .brand-logo {
