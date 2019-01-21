@@ -12,7 +12,8 @@ $(document).ready(function() {
     function() {}
   );
 
-  // Shoes
+  /* Shoes */
+
   $("#zoom_01").elevateZoom({
     /*zoomType: "lens",
     lensShape: "round",
